@@ -1,0 +1,6 @@
+id: file:///C:/Users/25810/Desktop/atguigu-elasticsearch/es-sparkstreaming/src/main/java/com/atguigu/es/Testa.scala:[34..34) in Input.VirtualFile("file:///C:/Users/25810/Desktop/atguigu-elasticsearch/es-sparkstreaming/src/main/java/com/atguigu/es/Testa.scala", "package com.atguigu.es;
+
+object ")
+file:///C:/Users/25810/Desktop/atguigu-elasticsearch/es-sparkstreaming/src/main/java/com/atguigu/es/Testa.scala:3: error: expected identifier; obtained eof
+object 
+       ^
